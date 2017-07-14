@@ -1,0 +1,26 @@
+{
+  "name": "watch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "watch.js",
+  "dependencies": {
+    "connect": "^3.6.2",
+    "cookieparser": "^0.1.0",
+    "formidable": "^1.1.1",
+    "hiredis": "^0.5.0",
+    "htmlparser": "^1.7.7",
+    "mongodb": "^2.2.30",
+    "mongoose": "^4.11.1",
+    "mysql": "^2.13.0",
+    "mz": "^2.6.0",
+    "nimble": "^0.0.2",
+    "redis": "^2.7.1",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

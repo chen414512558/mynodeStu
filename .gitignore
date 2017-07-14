@@ -1,0 +1,24 @@
+# node modules
+node_modules/
+npm-debug.log
+dest/
+dist/
+
+# ziped tar files
+*.tar.gz
+*.tgz
+
+# nohup File
+nohup.out
+
+# temperary files
+*.bak
+*.swp
+
+# compiled file
+*.so
+eggs/
+.eggs/
+*.egg
+
+!.babelrc
