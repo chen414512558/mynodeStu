@@ -17,7 +17,7 @@ class Watcher extends events.EventEmitter {
                this.emit('process', file);
            })
         } catch (error) {
-            console.log(error);
+            // console.log(error);
         }
     }
 
